@@ -1,0 +1,9 @@
+complaint,category
+"Received OTP call from fake bank executive",Vishing
+"Lost money after scanning QR code",UPI Fraud
+"Clicked suspicious payment link and account was compromised",Phishing
+"Instagram account hacked",Social Media Fraud
+"Received threatening messages online",Cyberstalking
+"Someone misused Aadhaar information",Identity Theft
+"Fake investment platform stole money",Investment Scam
+"Paid money for fake job offer",Job Scam
